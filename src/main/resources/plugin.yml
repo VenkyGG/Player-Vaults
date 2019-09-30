@@ -21,7 +21,7 @@ commands:
     description: Convert other plugins to PlayerVaults.
     aliases: [vaultconvert]
   pvreload:
-    description: Reload the configuration and language files.
+    description: Reloads the configuration and language files.
     permission: playervaults.admin
 
 permissions:
