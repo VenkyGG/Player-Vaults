@@ -9,16 +9,16 @@ api-version: 1.13
 
 commands:
   pv:
-    description: Open a vault.
-    aliases: [vault, chest, playervaults, vc]
+    description: Opens a vault.
+    aliases: [vault, chest, playervaults]
   pvdel:
-    description: Delete a vault.
+    description: Deletes a vault.
     aliases: [vaultdel]
   pvsign:
     description: Manage vault signs.
     aliases: [vaultsign]
   pvconvert:
-    description: Convert other plugins to PlayerVaultsX.
+    description: Convert other plugins to PlayerVaults.
     aliases: [vaultconvert]
   pvreload:
     description: Reload the configuration and language files.
